@@ -1,7 +1,7 @@
 [![MasterHead](https://hbr.org/resources/images/article_assets/2020/03/BR2003_SYN_CARLSON.png)](https://rishavchanda.io
 )
 <h1 align="center">مرحباً 👋, I'm Abdullah Aldosari!</h1>
-<h3 align="center">A passionate Software Engineering graduate from the heart of Saudi Arabia (🇸🇦), crafting innovative solutions and shaping the future of tech from Riyadh.</h3>
+<h3 align="center">A passionate Software Engineering graduate from the heart of Saudi Arabia (🇸🇦), <br> crafting innovative solutions and shaping the future of tech from Riyadh.</h3>
 Assalamu Alaikum! As a recent graduate of Prince Sattam bin Abdulaziz University with a Bachelor's in Software Engineering, I'm driven by the challenge of turning complex problems into elegant tech solutions. I'm deeply enthusiastic about the transformative power of technology and its potential in our vibrant Kingdom and beyond.
 
 - 🔭 Currently brewing up something exciting with **Basmat Bunn (بصمة بُنّ)**, my Coffee Recipe Optimizer project! I'm applying evolutionary algorithms to help coffee lovers find their perfect cup.
